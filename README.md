@@ -13,3 +13,5 @@ Code can work with Async and Sync Code.
 This is not a wrapper for the Desktop App.
 
 It requires your Steam auth key.
+
+100% of the API supported.
